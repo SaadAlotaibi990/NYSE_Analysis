@@ -1,5 +1,6 @@
 # NYSE_Analysis
-Analyzed S&amp;P500 data using excel and did some visualizations 
+In this project i used a data set containing financial performance data from companies listed in NYSE S&P and created
+an incomce statement and forecasted financial metrics.
 
 
 1 - the 1st sheet is the original data and you can see on the right some columns are colored in red that's where i did some formuals to get some new information.
